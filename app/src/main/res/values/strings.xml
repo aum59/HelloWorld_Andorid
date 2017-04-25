@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AumApp</string>
+    <string name="calculate">Calculate</string>
+    <string name="get_start">Get Started</string>
+</resources>
